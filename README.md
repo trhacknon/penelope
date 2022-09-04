@@ -17,7 +17,7 @@ Among the main features are:
 
 Penelope can work in conjunction with metasploit exploits by disabling the default handler with `set DisablePayloadHandler True`
 
-It supports Windows shells but autoupgrade is not implemented yet. However it can accept PTY shells from the excellent project [ConPtyShell](https://github.com/antonioCoco/ConPtyShell) of [@antonioCoco](https://github.com/antonioCoco). Autoresize of PTY is implemented.
+It supports Windows shells but autoupgrade is not implemented yet. However it can accept PTY shells from the excellent project [ConPtyShell](https://github.com/trhacknon/ConPtyShell) of [@trhacknon](https://github.com/trhacknon). Autoresize of PTY is implemented.
 
 ## Usage
 ### Sample Typical Usage
